@@ -16,3 +16,14 @@
 @import url('../blocks/header/__bottom-links/header__bottom-links.css');
 @import url('../blocks/header/__bottom-block/header__bottom-block.css');
 @import url('../blocks/header/__bottom-link/header__bottom-link.css');
+
+/*Блок content*/
+@import url('../blocks/content/content.css');
+
+/*Секция about*/
+@import url('../blocks/about/about.css');
+@import url('../blocks/about/__title/about__title.css');
+@import url('../blocks/about/__steps/about__steps.css');
+@import url('../blocks/about/__step/about__step.css');
+@import url('../blocks/about/__icon/about__icon.css');
+@import url('../blocks/about/__subtitle/about__subtitle.css');

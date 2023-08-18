@@ -1,0 +1,36 @@
+.about__step {
+    width: 126px;
+    margin: 0px 8px 0px 8px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+}
+
+.about__step:first-child {
+    margin-left: 0px;
+}
+
+.about__step:last-child {
+    margin-right: 0px;
+}
+
+.about__step:nth-of-type(1):after,
+.about__step:nth-of-type(2):after {
+    content: "";
+    position: absolute;
+    top: 40px;
+    width: 166px;
+    height: 1px;
+    background: rgba(53, 83, 98, 0.20);
+}
+
+.about__step:nth-of-type(1):after{
+    left: 133px;
+}
+
+.about__step:nth-of-type(2):after{
+    left: 133px;
+}

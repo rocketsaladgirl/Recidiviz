@@ -1,0 +1,13 @@
+.about__title {
+    width: 717px;
+    margin: 0;
+    margin-top: 120px;
+    color: #003331;
+    text-align: center;
+    font-family: 'Libre Baskerville';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 1.2px;
+}
