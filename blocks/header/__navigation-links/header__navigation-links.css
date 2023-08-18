@@ -1,0 +1,8 @@
+.header__navigation-links {
+    /* max-width: 424px; */
+    margin: 26px 0px 0px 0px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}

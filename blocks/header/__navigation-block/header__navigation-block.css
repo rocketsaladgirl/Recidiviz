@@ -1,0 +1,13 @@
+.header__navigation-block {
+    max-width: fit-content;
+    margin-left: 0px;
+    margin-right: 51px;
+}
+
+.header__navigation-block:nth-child(5) {
+    margin-right: 32px;
+}
+
+.header__navigation-block:last-child {
+    margin-right: 0px;
+}

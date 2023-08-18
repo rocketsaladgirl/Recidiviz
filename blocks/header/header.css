@@ -1,0 +1,14 @@
+.header {
+    max-width: 1280px;
+    /* height: 100vh; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: url('../../images/header-background.jpeg') no-repeat;
+    background-size: cover;
+    color: #FFF;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}

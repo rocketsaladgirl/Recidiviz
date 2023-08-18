@@ -1,0 +1,5 @@
+.header__bottom-navigation {
+    margin: 122px 64px 40px 64px;
+    display: flex;
+    flex-direction: column;
+}

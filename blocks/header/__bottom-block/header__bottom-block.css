@@ -1,0 +1,6 @@
+.header__bottom-block {
+    width: 165px;
+    padding-top: 17px;
+    border-top: 1px solid rgba(255, 255, 255, 0.60);
+    box-sizing: border-box;
+}

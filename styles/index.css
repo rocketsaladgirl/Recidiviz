@@ -1,0 +1,18 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts/fonts.css');
+
+/*Блок header*/
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__top-navigation/header__top-navigation.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__navigation-links/header__navigation-links.css');
+@import url('../blocks/header/__navigation-block/header__navigation-block.css');
+@import url('../blocks/header/__navigation-link/header__navigation-link.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__button/header__button.css');
+@import url('../blocks/header/__bottom-navigation/header__bottom-navigation.css');
+@import url('../blocks/header/__bottom-title/header__bottom-title.css');
+@import url('../blocks/header/__bottom-links/header__bottom-links.css');
+@import url('../blocks/header/__bottom-block/header__bottom-block.css');
+@import url('../blocks/header/__bottom-link/header__bottom-link.css');
