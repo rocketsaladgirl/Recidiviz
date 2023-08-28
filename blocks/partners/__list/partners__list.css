@@ -1,0 +1,7 @@
+.partners__list {
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    column-gap: 13px;
+    list-style: none;
+}

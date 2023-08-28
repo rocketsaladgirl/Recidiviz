@@ -1,0 +1,6 @@
+.approach__gallery {
+    margin: 80px 64px 80px 143px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+}

@@ -1,0 +1,8 @@
+.resourses__block {
+    width: 165px;
+    padding-top: 16px;
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid rgba(53, 83, 98, 0.30);
+    box-sizing: border-box;
+}

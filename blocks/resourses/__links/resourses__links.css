@@ -1,0 +1,8 @@
+.resourses__links {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    column-gap: 32px;
+    list-style: none;
+}

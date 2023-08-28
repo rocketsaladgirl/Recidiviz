@@ -1,0 +1,16 @@
+.resourses__link {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+    color: rgba(53, 83, 98, 0.80);
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+}
+
+.resourses__link:hover {
+    font-size: 18px;
+}

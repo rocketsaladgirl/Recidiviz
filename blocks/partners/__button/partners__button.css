@@ -1,0 +1,10 @@
+.partners__button {
+    background-color: #FFF;
+    border: none;
+    cursor: pointer;
+}
+
+.partners__button:hover {
+    color: rgba(0, 51, 49, 1);
+    transition: all 0.3s ease-in-out 0s;
+}

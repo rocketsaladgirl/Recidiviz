@@ -1,0 +1,23 @@
+.approach__button {
+    width: 153px;
+    height: 54px;
+    margin-top: 37px;
+    color: #00413E;
+    font-family: 'Public Sans';
+    text-align: center;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.02px;
+    border-radius: 80px;
+    border: 1px solid rgba(53, 83, 98, 0.20);
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.approach__button:hover {
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(0, 51, 49, 1);
+    transition: all 0.3s ease-in-out 0s;
+}

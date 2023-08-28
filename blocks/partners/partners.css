@@ -1,0 +1,8 @@
+.partners {
+    margin: 0;
+    padding: 0px 64px 0px 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 7px;
+}

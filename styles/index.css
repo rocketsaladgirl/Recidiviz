@@ -27,3 +27,34 @@
 @import url('../blocks/about/__step/about__step.css');
 @import url('../blocks/about/__icon/about__icon.css');
 @import url('../blocks/about/__subtitle/about__subtitle.css');
+
+/*Секция approach*/
+@import url('../blocks/approach/approach.css');
+@import url('../blocks/approach/__description/approach__description.css');
+@import url('../blocks/approach/__title/approach__title.css');
+@import url('../blocks/approach/__subtitle/approach__subtitle.css');
+@import url('../blocks/approach/__button/aproach__button.css');
+@import url('../blocks/approach/__gallery/approach__galery.css');
+@import url('../blocks/approach/__photo/approach__photo.css');
+@import url('../blocks/approach/__photo/_right/approach__photo_right.css');
+
+/*Секция resourses*/
+@import url('../blocks/resourses/resourses.css');
+@import url('../blocks/resourses/__links/resourses__links.css');
+@import url('../blocks/resourses/__block/resourses__block.css');
+@import url('../blocks/resourses/__link/resourses__link.css');
+@import url('../blocks/resourses/__icon/resourses__icon.css');
+
+/*Секция info*/
+@import url('../blocks/info/info.css');
+@import url('../blocks/info/__image/info__image.css');
+@import url('../blocks/info/__description/info__description.css');
+@import url('../blocks/info/__title/info__title.css');
+@import url('../blocks/info/__subtitle/info__subtitle.css');
+
+/*Секция partners*/
+@import url('../blocks/partners/partners.css');
+@import url('../blocks/partners/__title/partners__title.css');
+@import url('../blocks/partners/__list/partners__list.css');
+@import url('../blocks/partners/__block/partners__block.css');
+@import url('../blocks/partners/__button/partners__button.css');

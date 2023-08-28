@@ -1,0 +1,7 @@
+.approach {
+    padding: 0px 64px 0px 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #F7F8F8;
+}
