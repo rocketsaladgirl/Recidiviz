@@ -3,4 +3,5 @@
     height: 266px;
     border-radius: 3px;
     box-sizing: border-box;
+    object-fit: cover;
 }

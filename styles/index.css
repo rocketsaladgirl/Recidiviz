@@ -58,3 +58,12 @@
 @import url('../blocks/partners/__list/partners__list.css');
 @import url('../blocks/partners/__block/partners__block.css');
 @import url('../blocks/partners/__button/partners__button.css');
+
+/*Секция data*/
+@import url('../blocks/data/data.css');
+@import url('../blocks/data/__image/data__image.css');
+@import url('../blocks/data/__block/data__block.css');
+@import url('../blocks/data/__title/data__title.css');
+@import url('../blocks/data/__description/data__description.css');
+@import url('../blocks/data/__heading/data__heading.css');
+@import url('../blocks/data/__text/data__text.css');

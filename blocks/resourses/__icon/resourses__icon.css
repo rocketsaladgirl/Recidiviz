@@ -1,6 +1,7 @@
 .resourses__icon {
     width: 24px;
     height: 24px;
+    object-fit: cover;
 }
 
 .resourses__icon:hover {

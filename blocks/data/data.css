@@ -1,0 +1,9 @@
+.data {
+    margin: 0;
+    padding: 0;
+    padding-top: 88px;
+    background-color: #F4F5F5;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}

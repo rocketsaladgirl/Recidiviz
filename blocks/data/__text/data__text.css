@@ -1,0 +1,11 @@
+.data__text {
+    margin: 0;
+    margin-top: 4px;
+    padding: 0;
+    color: rgba(53, 83, 98, 0.80);
+    font-family: 'Public Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}

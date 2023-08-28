@@ -1,0 +1,10 @@
+.data__heading {
+    margin: 0;
+    padding: 0;
+    color: #003331;
+    font-family: 'Public Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}

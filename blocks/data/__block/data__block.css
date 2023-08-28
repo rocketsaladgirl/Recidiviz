@@ -1,0 +1,7 @@
+.data__block {
+    margin-bottom: 141px;
+    padding: 0px 65px 0px 64px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 168px;
+}
