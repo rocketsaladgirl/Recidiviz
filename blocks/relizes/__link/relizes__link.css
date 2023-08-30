@@ -1,0 +1,18 @@
+.relizes__link {
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+    display: inline-block;
+    color: #00413E;
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24.65px;
+    cursor: pointer;
+}
+
+.relizes__link:hover {
+    text-decoration: rgba(53, 83, 98, 0.30) underline;
+}

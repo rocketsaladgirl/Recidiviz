@@ -1,0 +1,22 @@
+.relizes__button {
+    width: 112px;
+    height: 54px;
+    padding: 0;
+    background: #FFF;
+    color: #00413E;
+    text-align: center;
+    font-family: 'Public Sans';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.02px;
+    border-radius: 80px;
+    border: 1px solid rgba(53, 83, 98, 0.20);
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.relizes__button:hover {
+    background: #F7F8F8;
+}
