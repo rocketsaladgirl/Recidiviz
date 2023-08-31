@@ -88,3 +88,14 @@
 @import url('../blocks/location/__subtitle/location__subtitle.css');
 @import url('../blocks/location/__button/location__button.css');
 @import url('../blocks/location/__image/location__image.css');
+
+/*Секция links*/
+@import url('../blocks/links/links.css');
+@import url('../blocks/links/__socials/links__socials.css');
+@import url('../blocks/links/__company/links__company.css');
+@import url('../blocks/links/__product/links__product.css');
+@import url('../blocks/links/__states/links__states.css');
+@import url('../blocks/links/__socials-title/links__socials-title.css');
+@import url('../blocks/links/__border/links__border.css');
+@import url('../blocks/links/__socials-list/links__socials-list.css');
+@import url('../blocks/links/__socials-link/links__socials-link.css');

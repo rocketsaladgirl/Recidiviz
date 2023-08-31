@@ -1,0 +1,9 @@
+.links__border {
+    width: 16px;
+    height: 1px;
+    margin: 0;
+    margin-top: 24px;
+    padding: 0;
+    border: 1px solid #25B895;
+    box-sizing: border-box;
+}
