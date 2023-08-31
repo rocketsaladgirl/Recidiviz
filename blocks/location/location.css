@@ -1,0 +1,9 @@
+.location {
+    margin: 0;
+    padding: 146px 163px 133px 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #001F1F;
+    color: #FAFAFA;
+}

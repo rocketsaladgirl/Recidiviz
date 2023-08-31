@@ -80,3 +80,11 @@
 @import url('../blocks/relizes/__name/relizes__name.css');
 @import url('../blocks/relizes/__data/relizes__data.css');
 @import url('../blocks/relizes/__link/relizes__link.css');
+
+/*Секция location*/
+@import url('../blocks/location/location.css');
+@import url('../blocks/location/__description/location__description.css');
+@import url('../blocks/location/__title/location__title.css');
+@import url('../blocks/location/__subtitle/location__subtitle.css');
+@import url('../blocks/location/__button/location__button.css');
+@import url('../blocks/location/__image/location__image.css');
