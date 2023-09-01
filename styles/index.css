@@ -99,3 +99,11 @@
 @import url('../blocks/links/__border/links__border.css');
 @import url('../blocks/links/__socials-list/links__socials-list.css');
 @import url('../blocks/links/__socials-link/links__socials-link.css');
+
+/*Блок footer*/
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__columns/footer__columns.css');
+@import url('../blocks/footer/__icon/footer__icon.css');
+@import url('../blocks/footer/__links/footer__links.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
