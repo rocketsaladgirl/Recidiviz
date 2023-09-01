@@ -12,4 +12,6 @@ https://disk.yandex.ru/d/2dk_rbLCvVVzwg
 + навык разбивать проект на секции и блоки ориентируясь на бриф;
 
 С готовой работой можно ознакомится по ссылке ниже:
+https://rocketsaladgirl.github.io/Recidiviz/
+
 
