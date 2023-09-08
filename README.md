@@ -1,5 +1,4 @@
 # "RECIDIVIZ"
-
 ![recidiviz](https://github.com/rocketsaladgirl/Recidiviz/assets/114432448/f7264ef0-9d80-4a01-bd52-9a4a4f622946)
 
 ## О чем данный проект:
