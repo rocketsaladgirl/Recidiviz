@@ -1,6 +1,7 @@
 .resourses {
-    margin: 0;
-    padding: 24px 64px 21px 64px;
+    margin: 24px auto 21px auto;
+    padding: 0;
     display: flex;
     box-sizing: border-box;
+    justify-content: center;
 }

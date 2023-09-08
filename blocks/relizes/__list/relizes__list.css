@@ -1,5 +1,5 @@
 .relizes__list {
-    margin: 24px 64px 132px 64px;
+    margin: 24px auto 132px auto;
     padding: 0;
     display: grid;
     list-style: none;
