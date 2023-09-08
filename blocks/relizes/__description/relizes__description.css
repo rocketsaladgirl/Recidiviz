@@ -1,4 +1,5 @@
 .relizes__description {
+    margin: 80px 64px 0px 64px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

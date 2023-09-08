@@ -1,6 +1,5 @@
 .relizes__list {
-    margin: 0;
-    margin-top: 24px;
+    margin: 24px 64px 132px 64px;
     padding: 0;
     display: grid;
     list-style: none;
